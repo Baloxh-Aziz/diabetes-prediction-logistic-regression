@@ -29,4 +29,4 @@ Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigr
 3. Run all cells
 
 ## Author
-Azizullah Asad — BS Data Science, DUET Karachi
+Azizullah Asad 
